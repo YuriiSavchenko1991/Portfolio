@@ -35,9 +35,6 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 - Processing the requests from internal and external users through the service-desk and problem identification.
 - Communication with BA, Developers or Product Owners in some specific situations.
 
-
-### Tools 🔧
-
 ### Hard skills 💻
 
 ### Soft skills 📁
