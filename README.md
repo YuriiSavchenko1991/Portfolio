@@ -7,6 +7,8 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 [My Linkedin profile](https://www.linkedin.com/in/savchenko-yurii/)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/savchenko-yurii/)
+
 ### My experience 🏢
 
 ### Tools 🔧
