@@ -125,6 +125,8 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 ### Certificates 🏆
 
+[English certification](https://cert.efset.org/5SGHhK)
+
 ### Education 📚
 
 **Poltava National Technical Yuri Kondratyuk University (now National University Yuri Kondratyuk Poltava Polytechnic)**, Poltava – Master of Business Administration (with honors)<br>
