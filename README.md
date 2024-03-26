@@ -140,4 +140,4 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 <em>SEPTEMBER 2008 - JUNE 2012</em>
 
 
-### Samples 🔬
+### Projects 🔬
