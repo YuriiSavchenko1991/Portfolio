@@ -37,6 +37,74 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 ### Hard skills 💻
 
+**Testing activities**
+
+- Test design
+- Functional testing
+- Non-functional testing
+- Smoke, Sanity, Regression testing
+- Documentation testing
+- Manual testing
+- Black-box testing
+- Creating test documentation
+- Cross Browser - Cross Platform testing
+
+**Web / Mobile testing tools**
+- DevTools
+- Postman
+- Swagger
+- Fiddler
+- Charles
+- Browserstack
+- Android Studio
+- Firebase
+- TestFlight
+- Expo
+- AppCenter
+- Understanding HTML / CSS / HTTP (S) / JSON / REST API / GraphQL / SQL (basics) / Blockchain
+
+**CI/CD tools**
+
+- GitHub
+- GitLab 
+
+**UI testing**
+
+- Figma
+- PerfectPixel
+- Chromatic
+
+**Automation / Load testing**
+
+- Selenium WebDriver (basics)
+- Jmeter (basics)
+
+**Project managemet / Test management**
+
+- Jira
+- Confluence
+- TestRail
+- Notion
+- Mantis
+- TestLink
+- Monday
+- Airtable
+- Miro
+- ClickUp
+- Trello
+
+**Error tracking**
+
+- Rollbar
+- Sentry
+- Graylog
+
+**CMS**
+
+- WordPress
+- Strapi
+- Prismic
+
 ### Soft skills 📁
 
 - Understanding the SDLC, STLC, Agile and Scrum
