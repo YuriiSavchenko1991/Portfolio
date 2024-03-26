@@ -129,6 +129,8 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 [English certification](https://cert.efset.org/5SGHhK)
 
+[Generative AI Fundamentals](https://www.cloudskillsboost.google/public_profiles/d4639a81-9937-48e5-9d87-91702119a8fe/badges/8057730)
+
 ### Education 📚
 
 **Poltava National Technical Yuri Kondratyuk University (now National University Yuri Kondratyuk Poltava Polytechnic)**, Poltava – Master of Business Administration (with honors)<br>
