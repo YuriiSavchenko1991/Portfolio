@@ -123,6 +123,8 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 ### Courses 📓
 
+[The Fundamentals of Software Testing](https://drive.google.com/file/d/1h11QjipQfys7PZltWO63fIpMR5cs5XmE/view)
+
 ### Certificates 🏆
 
 [English certification](https://cert.efset.org/5SGHhK)
