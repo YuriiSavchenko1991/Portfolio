@@ -39,6 +39,20 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 ### Soft skills 📁
 
+- Understanding the SDLC, STLC, Agile and Scrum
+- Analytical skills
+- Time management
+- Attention to details
+- Team player
+- Communication skills
+- Fast learning
+- Friendly
+- Emotional intelligence
+- Adaptability
+- Continuous learning
+- Critical thinking
+- Problem-solving
+
 ### Courses 📓
 
 ### Certificates 🏆
