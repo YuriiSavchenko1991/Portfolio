@@ -150,6 +150,8 @@ Makeup retail app [Android](https://play.google.com/store/apps/details?id=com.ta
 
 [The e-sims aggregator](https://esimscompare.com/)
 
+[The yacht booking site](https://charterclick.com/)
+
 [Welding wholesale online store](https://www.twusa.com/)
 
 [The tool for finding free offices to work](https://www.yourdesq.com/)
