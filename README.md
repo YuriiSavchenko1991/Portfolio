@@ -142,6 +142,14 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 ### Projects 🔬
 
+[Printed products wholesale purchase ](https://orders.mediapoint.com.au/)
+
+Makeup retail app [Android](https://play.google.com/store/apps/details?id=com.tallium.prostor&hl=uk) and [iOS](https://apps.apple.com/ua/app/prostor/id6451147576)
+
+[The cryptocurrency exchange app](https://tonwex.com/en)
+
+[The e-sims aggregator](https://esimscompare.com/)
+
 [Welding wholesale online store](https://www.twusa.com/)
 
 [The tool for finding free offices to work](https://www.yourdesq.com/)
