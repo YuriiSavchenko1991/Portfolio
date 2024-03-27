@@ -140,7 +140,7 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 <em>SEPTEMBER 2008 - JUNE 2012</em>
 
 
-### Projects 🔬
+### Some projects examples 🔬
 
 [Printed products wholesale purchase ](https://orders.mediapoint.com.au/)
 
