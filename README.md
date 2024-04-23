@@ -123,11 +123,11 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 ### Courses 📓
 
+[Cypress: Web Automation Testing](https://www.udemy.com/certificate/UC-1b95abe6-0ff4-4ff4-9cb6-37a8de7c90fb/)
+
 [The Fundamentals of Software Testing](https://drive.google.com/file/d/1h11QjipQfys7PZltWO63fIpMR5cs5XmE/view)
 
 ### Certificates 🏆
-
-[Cypress: Web Automation Testing](https://www.udemy.com/certificate/UC-1b95abe6-0ff4-4ff4-9cb6-37a8de7c90fb/)
 
 [English certification](https://cert.efset.org/5SGHhK)
 
