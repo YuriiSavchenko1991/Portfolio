@@ -61,7 +61,8 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 - TestFlight
 - Expo
 - AppCenter
-- Understanding HTML / CSS / HTTP (S) / JSON / REST API / GraphQL / SQL (basics) / Blockchain
+- Understanding HTML / CSS / HTTP (S) / JSON / REST API / GraphQL / Blockchain
+- PostgreSQL, MongoDB
 
 **CI/CD tools**
 
@@ -76,6 +77,7 @@ Experienced QA Engineer with three years of hands-on experience in software qual
 
 **Automation / Load testing**
 
+- Cypress
 - Selenium WebDriver (basics)
 - Jmeter (basics)
 
